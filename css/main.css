@@ -1,0 +1,289 @@
+/*
+Theme Name: Designers Theme
+Creator: Ben Sanders
+URL: Bensanders.me
+License: Creative Commons License
+*/
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: helvetica, arial, sans-serif; }
+
+#site {
+  width: 100%; }
+
+.topBar {
+  width: 100%;
+  background: #3bbd98 !important;
+  color: white;
+  height: 105px; }
+
+.topBar-inner {
+  width: 100%;
+  max-width: 901px;
+  margin: 0 auto; }
+
+.topBar-block-right {
+  height: 65px; }
+
+.socialContainer a, a:active, a:hover {
+  text-decoration: none;
+  color: white; }
+
+nav.topBar-nav {
+  width: 100%;
+  height: 40px; }
+
+span.logo {
+  font-size: 22pt;
+  line-height: 2.5; }
+
+nav.topBar-nav ul, li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0;
+  margin: 0 auto;
+  text-transform: uppercase; }
+
+nav.topBar-nav li {
+  padding: 10px 20px 18px 0; }
+
+nav.topBar-nav a {
+  color: #C4F2CA !important;
+  text-decoration: none;
+  padding: 10px 20px 18px 0; }
+
+nav.topBar-nav a:hover {
+  color: #FFFFFF !important;
+  text-decoration: none; }
+
+.mainContent {
+  width: 100%;
+  max-width: 1001px;
+  height: 100%;
+  padding: 0;
+  min-height: 500px;
+  font-size: 110%;
+  line-height: 1.65;
+  margin: 0 auto; }
+
+div#postex {
+  overflow: hidden;
+  margin-top: 1em; }
+
+ul.listNone {
+  padding: 0;
+  margin: 0; }
+
+ul#postGrid {
+  float: left;
+  width: 41%;
+  margin: 0 1px 0 0; }
+
+ul#postGrid.homepage-photoSet {
+  float: right;
+  width: 58%; }
+
+ul#postGrid li {
+  display: block;
+  margin-bottom: 1em; }
+
+ul#postGrid li:hover {
+  background: #eee; }
+
+ul#postGrid a {
+  text-decoration: none;
+  text-transform: none; }
+
+ul.in-post-list li {
+  display: block;
+  text-transform: none; }
+
+header.entryTitle h2 {
+  margin-bottom: 0; }
+
+img.post-featured-image {
+  width: 100%; }
+
+header.entryTitle .oneLiner {
+  margin-top: 0; }
+
+.entryTitle a {
+  color: black; }
+
+.photoContent {
+  position: relative; }
+
+header.post-header {
+  text-align: center; }
+
+header.post-header h1 {
+  margin: 1em 0 0 0; }
+
+header.post-header p.post-meta {
+  margin: 0 0 1em 0; }
+
+.titleWrap {
+  clear: both;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  padding: 4.25rem 0 2rem;
+  width: 100%;
+  color: white;
+  background: linear-gradient(to bottom, rgba(33, 36, 37, 0) 0%, rgba(33, 36, 37, 0.7) 50%, rgba(33, 36, 37, 0.84) 100%); }
+
+.heroImage {
+  width: 100%; }
+
+.clearfix {
+  clear: both;
+  content: " "; }
+
+footer#site-footer {
+  width: 100%;
+  height: 50px; }
+
+.footer-inner {
+  width: 100%;
+  max-width: 902px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 4; }
+
+#collections .collectionCard {
+  width: 32%;
+  border-radius: 5px;
+  background: #3bbd98 !important;
+  float: left;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  transition: all 0.15s ease-in; }
+
+#collections .collectionCard h2 {
+  margin: 0; }
+
+#collections .collectionCard .content {
+  text-align: center;
+  color: white; }
+
+#collections .collectionCard a {
+  text-decoration: none; }
+
+.travel-img-bg {
+  background-size: 105%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 215px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  transition: all 0.25s ease-in-out; }
+
+figure#coverPhoto {
+  padding: 0;
+  margin: 0; }
+
+img.placerholderCover {
+  width: 100%; }
+
+.photostory-stats {
+  padding-bottom: 1.5em;
+  font-size: 1.55rem;
+  text-align: center;
+  position: relative; }
+
+.photostory-module {
+  font-weight: 600;
+  display: inline-block;
+  color: #b6b8b9;
+  margin-right: 1em;
+  padding-right: 1em;
+  line-height: 1.4;
+  border-right: 1px solid rgba(255, 255, 255, 0.06); }
+
+section.storyContent {
+  margin: 0 5em 0 5em; }
+
+.photoset .photoset-row {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  overflow: hidden; }
+
+.photoset .photoset-item #postex .photoset .photoset-item {
+  display: block;
+  float: left;
+  margin: 0 .25rem !important;
+  width: auto; }
+
+.photoset figure, #postex .photoset figure {
+  margin: 0;
+  position: relative;
+  width: auto;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: block;
+  float: left;
+  margin: 0 .50rem 0 .50rem !important; }
+
+figure.single img {
+  width: 100%; }
+
+figure {
+  margin: 0 0 1.8% 0;
+  position: relative;
+  width: 100%; }
+
+section#newsletter {
+  width: 50%;
+  position: relative;
+  border: 1px dashed #ddd;
+  margin: 0 auto; }
+
+a {
+  text-decoration: none;
+  color: #1f90bf; }
+
+a:hover {
+  text-decoration: underline;
+  color: #1b81ac; }
+
+nav.footerNav a {
+  text-transform: uppercase; }
+
+ul#left-about {
+  float: left;
+  width: 25%; }
+
+ul#right-about {
+  float: right;
+  width: 67%;
+  overflow: hidden;
+  margin: 0; }
+
+ul#left-about img {
+  width: 100%; }
+
+ul#right-about li {
+  text-transform: capitalize; }
+
+@media screen and (max-width: 414px) {
+  ul#postGrid {
+    width: 100%; }
+
+  .homepage-photoSet {
+    width: 100%; }
+
+  ul#photo-grid {
+    width: 100%; }
+
+  #collections .collectionCard {
+    width: 100%; }
+
+  section.storyContent {
+    margin: 0 1em 0 1em; } }
+
+/*# sourceMappingURL=main.css.map */

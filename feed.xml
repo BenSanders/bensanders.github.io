@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Sanders</title>
+    <description>On this website I write about my thoughts on technology, gaming and just daily life.
+</description>
+    <link>http://bensanders.me/</link>
+    <atom:link href="http://bensanders.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Aug 2017 11:25:28 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2017 11:25:28 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>5 Reasons To Upload Your Resume To Google Drive</title>
+        <description>&lt;section class=&quot;photoset&quot;&gt;
+  &lt;img src=&quot;/images/google-drive-logo-new.png&quot; class=&quot;post-featured-image&quot; alt=&quot;Google Drive Logo&quot;&gt;
+&lt;/section&gt;
+&lt;section class=&quot;storyContent&quot;&gt;
+&lt;p&gt;
+  So, you&#39;re out of school or are almost out and you are looking for a job?
+  You&#39;ve got your resume in hand or I should say in PDF form on your computer.
+  You could upload it every time you send an email to a potential job or, and I
+  suppose this only works if you use Gmail, you could upload it to Google Drive.
+
+&lt;/p&gt;
+&lt;p&gt;
+  Recently I had applied for a job and I went to upload my resume to send to
+  them and I had this thought about importing it from Google Drive. For some
+  reason, all the times I had sent applications in I hadn&#39;t thought about doing
+  this. I guess it&#39;s just me being stuck in the past so to speak. After I had
+  sent the email I did think about the ease of which it would be to update my
+  resume that company has now. If I update that one then it would just update
+  for them since I basically sent them a link and allowed them to view it.
+&lt;/p&gt;
+&lt;p&gt;
+  So, my 5 reasons for uploading your resume to Google Drive and I suppose, as
+  mentioned, this only applies if you use Gmail.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;ul class=&quot;in-post-list&quot;&gt;
+    &lt;li&gt;1. Ease of Editability&lt;/li&gt;
+    &lt;li&gt;2. Literally, only one copy is needed&lt;/li&gt;
+    &lt;li&gt;3. &quot;The Cloud&quot; allows for access on any device&lt;/li&gt;
+    &lt;li&gt;4. Importing is easy from inside Gmail&lt;/li&gt;
+    &lt;li&gt;5. Super convenient&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+  Ease of Editability is as I mentioned above just the fact that you can edit the
+  one file and have it update for all possible jobs. So, if you found a mistake
+  when you sent the email you can quickly update it and have it reflected
+  immediately.
+&lt;/p&gt;
+&lt;p&gt;
+  What I mean by &quot;literally, only one copy is needed&quot; is just as it sounds.
+  You only need one copy since it&#39;s online in Google Drive you don&#39;t have to
+  worry about resaving a Word Document as a PDF anymore. Just send the Google
+  Drive Document, or whatever they call it.
+
+&lt;/p&gt;
+&lt;p&gt;
+  &quot;The Cloud&quot;, which is a word I sort of hate since it simplifies the web a
+  little too much but that&#39;s the buzz word that&#39;s been chosen. Either way
+  &quot;The Cloud&quot; allows for you to view your resume, or any other document, on any
+  device that has the app. So, if you need to show your resume to someone in a
+  pinch just get your phone out and show them. You can even edit it from your
+  phone, tablet, what have you.
+
+&lt;/p&gt;
+&lt;p&gt;
+  Importing it from inside of Gmail is easy by just hitting the Drive icon and
+  selecting your file. I would say it couldn&#39;t be any easier.
+  I&#39;ll just include this last one in this paragraph. The last one being that
+  it&#39;s just super convenient. Super convenient for really all the above points
+  I mentioned.
+
+&lt;/p&gt;
+&lt;p&gt;
+  Thanks for taking the time to read this post and be sure to share it if you
+  want to and comment below with your thoughts. :)
+
+&lt;/p&gt;
+&lt;p&gt;
+  Until Next Time,
+  - Ben Sanders
+&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 17 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/5-reasons-to-upload-your-resume-to-google-drive/</link>
+        <guid isPermaLink="true">http://bensanders.me/5-reasons-to-upload-your-resume-to-google-drive/</guid>
+        
+        <category>5 reasons to upload your resume to google drive,</category>
+        
+        <category>5 reasons,</category>
+        
+        <category>resume,</category>
+        
+        <category>google,</category>
+        
+        <category>drive,</category>
+        
+        <category>Ben Sanders,</category>
+        
+        <category>2017</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Using Font Awesome In 2017</title>
+        <description>&lt;section class=&quot;photoset&quot;&gt;
+  &lt;img src=&quot;/images/font-awesome-post-image.png&quot; class=&quot;post-featured-image&quot;alt=&quot;An image of typewriter header that typed out 2017 - Chapter One&quot;&gt;
+&lt;/section&gt;
+&lt;section class=&quot;storyContent&quot;&gt;
+&lt;p&gt;
+  It has come to my attention that I should move into the new age so to speak of
+  web development. I managed to teach myself SASS and get better with GIT, ha get,
+  all jokes aside I need to keep my skills up. So, over the next few days, weeks
+  and even months I&#39;ll be implementing &lt;a target=&quot;_blank&quot; href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt; into my site.
+&lt;/p&gt;
+&lt;p&gt;
+  I&#39;ve always had trouble with things like the Hamburger menu, I guess because I
+  always tried using an image for it. You know instead of using a CSS Icon Set.
+  I&#39;ll also be trying to blog the experience more so I can get some actual
+  content on this site.
+
+&lt;/p&gt;
+&lt;p&gt;
+  I&#39;ve already started filling out my &lt;a target=&quot;_blank&quot; href=&quot;https://bensanders.me/portfolio&quot;&gt;portfolio&lt;/a&gt;.
+  Although it&#39;s mostly just
+  designs that I made up in Photoshop. I&#39;ve also popped open Illustrator to make
+  some logos but I don&#39;t feel they are that great to share yet. I mostly just
+  keep trying to slog away to keep busy on something creative.
+
+&lt;/p&gt;
+&lt;p&gt;
+  I do still run my &lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://youtube.com/thebensanders&quot;&gt;YouTube&lt;/a&gt;
+  channel as well where I upload vlogs and short
+  Overwatch clips. I have already uploaded more videos this year than all of
+  last year put together and depending on if the Dragon Con trip works out I&#39;ll
+  have that on my channel. Along with plenty of photos from the Con on this site.
+
+&lt;/p&gt;
+&lt;p&gt;
+  Whatever happens, the next 5 and a half months thank you for taking the time
+  to read this little update post. That all it seems I ever do on this site
+  anymore. (lol)
+
+&lt;/p&gt;
+&lt;p&gt;
+  Until Next Time, peace!&lt;br /&gt;
+  - Ben Sanders &lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  P.S. If you enjoyed this post don&#39;t forget to share it on all the socials
+  and comment below! I looke forward to conversing with you all in the comments.
+&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Fri, 14 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/using-font-awesome-in-2017/</link>
+        <guid isPermaLink="true">http://bensanders.me/using-font-awesome-in-2017/</guid>
+        
+        <category>font awesome,</category>
+        
+        <category>Ben Sanders,</category>
+        
+        <category>2017</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Working Online and Where To Start</title>
+        <description>&lt;section class=&quot;storyContent&quot;&gt;
+&lt;p&gt;
+  Now I have tried many different opportunities for working from home to no avail.
+  However, this one finally worked or at least is working for now. I mean we never
+  know what could happen tomorrow but either way, I am loving the freedom the job provides.
+&lt;/p&gt;
+&lt;p&gt;
+  It&#39;s not easy money either, you still have to work for it. How it works is you
+  claim projects, type out exactly what you hear the best you can and submit them.
+  Most of the time the audio can be a bit tricky to hear but I think that&#39;s the most
+  rewarding part of it. I mean, imagine this, you are working on some audio and
+  you finally are able to make out something. Would you feel a sense of satisfaction from that?
+&lt;/p&gt;
+&lt;p&gt;
+  I am of course talking about working with Rev, the transcription company.
+  Which so far has been a great work-from-home opportunity. As mentioned above it
+  is not easy money but I can pick when and where I want to work. There is no set
+  schedule and I get to work whenever I need money really.
+&lt;/p&gt;
+&lt;p&gt;
+  There are a lot of ways to make money online though nowadays. You can set up an
+  Etsy shop, you can sell your illustrations or maybe stream and people can donate
+  to you. Though that last one is maybe more related if you have an already established
+  brand and people feel they know you.
+&lt;/p&gt;
+&lt;p&gt;
+  Working from home is essentially you running your own business. So, if you treat
+  it like you&#39;re a business owner that you are then find something that you love doing.
+&lt;/p&gt;
+&lt;p&gt;
+  I would say the best way to make money online is to find something you would do
+  for free and charge for it. The idea being that if it&#39;s something you&#39;d be doing
+  for free you are probably good at it. At least good enough to garner some sort
+  of eyeballs on it.
+&lt;/p&gt;
+&lt;p&gt;
+All this being said to leave off this post I would like to say I am planning on
+starting a podcast. I am not quite sure yet on the title but I have been wanting
+to do a podcast for a while. So keep an eye on my twitter for more information on it.
+&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/working-online-and-where-to-start/</link>
+        <guid isPermaLink="true">http://bensanders.me/working-online-and-where-to-start/</guid>
+        
+        <category>work from home,</category>
+        
+        <category>ben sanders,</category>
+        
+        <category>thebensanders,</category>
+        
+        <category>transcription jobs,</category>
+        
+        <category>2017</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Thoughts on The Red Pill Documentary</title>
+        <description>&lt;section class=&quot;photoset&quot;&gt;
+  &lt;img src=&quot;/images/the-red-pill-small.jpg&quot; class=&quot;post-featured-image&quot;alt=&quot;An image of typewriter header that typed out 2017 - Chapter One&quot;&gt;
+&lt;/section&gt;
+&lt;section class=&quot;storyContent&quot;&gt;
+&lt;p&gt;
+  I recently watched a video from Armoured Skeptic about a documentary called
+  The Red Pill. Which then prompted me to go and actually watch the film.
+  I have not really been a fan of the men&#39;s rights movement or the feminist
+  movement for that matter.  I sure as hell don&#39;t like the movement called MGTOW.
+  However, the film did give me a nice, fresh, view on the situation.
+&lt;/p&gt;
+&lt;p&gt;
+  You see both sides do make valid points. I understand that with anything there
+  is always going to be a radical sub-group. For example, the MGTOW which stands
+  for Men Going Their Own Way. Which to me sounds like men who don&#39;t even want to
+  try and solve the problems between the genders. Like they are too scared to solve
+  the problems and instead hang a &quot;No Girls Allowed&quot; sign up in protest.
+&lt;/p&gt;
+&lt;p&gt;
+  The film does show off both the best and the worst of each movement. The film
+  touched on the fact that men do get the worst end of the stick in family court.
+  While at the same time also stating, from someone from the feminist camp, that
+  you should talk to the other person before engaging in sex.
+&lt;/p&gt;
+&lt;p&gt;
+  Which you should fully discuss with the person, that you are about to have intimate
+  time with, what might happen if a pregnancy occurs. If two people of the opposite
+  gender have sex they should honestly have discussed that fact. Since having sex,
+  even when using protection, has a very real possibly of producing offspring.
+&lt;/p&gt;
+&lt;p&gt;
+  The Red Pill highlights the fact that both genders do have problems with abuse
+  towards them. That sexual or verbal abuse can happen to someone regardless of gender.
+  Each time it showed stats though it showed it affects more women.
+&lt;/p&gt;
+&lt;p&gt;
+  The thing is though that doesn&#39;t make Men any less valuable or needing help.
+  It also doesn&#39;t mean women are any less the victims of these tragic abuse stories.
+  All it means is that we should keep all this in mind when we hear about abuse
+  stories regardless of gender. If a guy comes forward and says he&#39;s been abused
+  by a female then he should have his voice heard. Just like we should listen to
+  women if the same thing happens to them.
+&lt;/p&gt;
+&lt;p&gt;
+  I think that to solve some of these issues and get rid of some of the tensions
+  between the genders we just need to communicate more. Maybe make a woman prove
+  the person she claims is the father is the father before applying for welfare.
+&lt;/p&gt;
+&lt;p&gt;
+  It&#39;s difficult to discuss these sorts of issues because both sides make good,
+  or least half decent, arguments. As both genders can&#39;t possibly imagine what
+  life is like in the other&#39;s shoes, so to speak. We can&#39;t possibly fully understand
+  how to actually solve these problems.
+&lt;/p&gt;
+&lt;p&gt;
+  Anyway, those are some of my thoughts, I hope I brought something new to the table.
+  Let me know what you think there in the comments below. I look forward to hearing
+  from everyone. I tend to try to stay as centrist as I can on most issues.
+  So until the next one have a great day! :)
+&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Sat, 18 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/the-red-pill/</link>
+        <guid isPermaLink="true">http://bensanders.me/the-red-pill/</guid>
+        
+        <category>the red pill,</category>
+        
+        <category>documentary,</category>
+        
+        <category>2017</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Changes in 2017</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2017-chapter-one-800-533.jpg&quot; alt=&quot;An image of typewriter header that typed out 2017 - Chapter One&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Image from Adobe Stock)&lt;/p&gt;
+
+&lt;p&gt;So this is the first post I made on my site in 2017. First off I would like to say hello. Second, there are some things I need to discuss.&lt;/p&gt;
+
+&lt;p&gt;So let’s get started.&lt;/p&gt;
+
+&lt;p&gt;A new year brings about people wanting to make changes usually for the better. This year is no different and I plan on making the most of this year. I’ve already begun my new year’s resolutions and writing more is one of them. Doesn’t matter what I am writing about I just want to write more.&lt;/p&gt;
+
+&lt;p&gt;I’ve also resolved to make more vlogs on YouTube which I’ve started doing. I plan on posting them here perhaps with a full blog post. I figure that will help with exposure. My desire with making vlogs is to try to entertain and maybe inform. I suppose the same thing with my writings.&lt;/p&gt;
+
+&lt;p&gt;Throughout last year I started learning animation and drawing more too. I also began thinking about starting a comic. Which I don’t know if I’ll do that or not but if I do I’ll post it here. I plan on continuing to get better at drawing and animation.&lt;/p&gt;
+
+&lt;p&gt;I will also continue working on this site and adding new features to it. Hopefully get a portfolio done for potential clients to look at. Whoa, it seems I’ve put a lot on my plate but maybe if I stick to it and put the time in I can succeed.&lt;/p&gt;
+
+&lt;p&gt;I also have a few job applications in and hope to do some traveling this year. The traveling will give the opportunity to blog about said traveling and get plenty of pictures and video.&lt;/p&gt;
+
+&lt;p&gt;If you wish to keep up with my blog post you can subscribe to the newsletter or the RSS feed. Maybe both? Either way, you’ll get new posts when I put them out.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading and if you have any big plans or small plans let me know what they are in the comments below. I look forward to reading and conversing with you!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://bensanders.me/changes-in-2017</link>
+        <guid isPermaLink="true">http://bensanders.me/changes-in-2017</guid>
+        
+        <category>update,</category>
+        
+        <category>changes,</category>
+        
+        <category>2017</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Who Am I Voting For?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/Gary-Johnson-800x430.jpg&quot; alt=&quot;Presidential Candidate Gary Johnson waves&quot; class=&quot;featured-image&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- ad --&gt;
+
+&lt;p&gt;Every 4 years we here in America get to decide who we want to represent us as a nation and every 4 years there’s always a group of people who is disgusted and a group who is delighted. I will preface this by saying whoever is elected I will gladly call my president even if they are not the man or the woman I voted for because that is what America is all about. I will, however, say that this is the election that we as the American people have the greatest chance to change how our politics are played out. We for the first time in decades can actually work more towards a 3 or more party system and buck the establishment.&lt;/p&gt;
+
+&lt;p&gt;On the one hand, we have a guy like Donald J. Trump who is bent on showing that he is always right no matter what. He will flat out lie even when faced with the truth. On the other hand, we have Hillary Clinton who literally wants a war with Russia by controlling air space in Syria. There is another option in Gary Johnson who, while may not 100% perfect, but he at least understands that the country needs people to live with their own decisions. He has shown that he knows how to govern by leaving his state of New Mexico with a surplus and using his governor veto power to it’s fullest. Also since he’s not part of the two major parties and takes money from the people voting for him he’s actually beholden to the people.&lt;/p&gt;
+
+&lt;p&gt;So to answer the question in case it wasn’t already answered I will be voting for Gary Johnson because I agree more with the fiscally conservative side of him. The personal responsibility that he believes in.&lt;/p&gt;
+
+&lt;p&gt;Now that you’ve read my thoughts or more of a rant what are your thoughts or if I may who will you be supporting and why?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/who-am-i-voting-for</link>
+        <guid isPermaLink="true">http://bensanders.me/who-am-i-voting-for</guid>
+        
+        <category>gary johnson,</category>
+        
+        <category>third party,</category>
+        
+        <category>donald trump,</category>
+        
+        <category>hillary clinton,</category>
+        
+        <category>election,</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Going Live With Git</title>
+        <description>&lt;!-- ![Jekyll Logo](/images/logo-2x.png) --&gt;
+
+&lt;h1 id=&quot;going-live-with-git&quot;&gt;Going Live With Git&lt;/h1&gt;
+
+&lt;h3 id=&quot;git-is-an-awesome-tool&quot;&gt;Git is an awesome tool!&lt;/h3&gt;
+
+&lt;h3 id=&quot;jun-2016&quot;&gt;19 Jun 2016&lt;/h3&gt;
+
+&lt;p&gt;Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
+you can go and find all the source code for this current site on my &lt;a href=&quot;https://github.com/bensanders/&quot;&gt;GitHub&lt;/a&gt;.
+Plugs aside I have installed git on my live server and just tried pushing some changes over to it vs my github. I can get used to going live with websites like that I think. haha&lt;/p&gt;
+
+&lt;p&gt;Regardless it’s very handy as I don’t have to keep up a Filezilla window or try using any of the finiky plugins for Sublime Text or Atom to upload files. Plus I have version control with Git so that if I don’t like changes I made I can revert back. Granted I haven’t figured out
+how to yet but the option should be there somewhere.&lt;/p&gt;
+
+&lt;p&gt;So now let me just outline to you all my new work flow process for writing a post with Jekyll and Git.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I open a new file in Sublime Text.&lt;/li&gt;
+  &lt;li&gt;Put all the Jekyll Front-Matter in it.&lt;/li&gt;
+  &lt;li&gt;Write the post and edit it to look all sexy&lt;/li&gt;
+  &lt;li&gt;Push it to the server and SHARE!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s about it for now and I’m sure I’ll refine all that later. Also this workflow allows me, as a console geek, to do
+EVERYTHING in a console window. I love everything about running console commands. &amp;lt;3&lt;/p&gt;
+
+&lt;p&gt;Till Next Time.&lt;/p&gt;
+
+&lt;p&gt;-Ben Sanders&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/going-live-with-git</link>
+        <guid isPermaLink="true">http://bensanders.me/going-live-with-git</guid>
+        
+        <category>blog,</category>
+        
+        <category>update,</category>
+        
+        <category>awesome,</category>
+        
+        <category>jekyll</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Back To Jekyll</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/logo-2x.png&quot; alt=&quot;Jekyll Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I change my mind a lot!&lt;/p&gt;
+
+&lt;!-- ad --&gt;
+
+&lt;p&gt;There I said it but no in all seriousness though I decided, after much thought,
+to switch back over to Jekyll. The reason being that I felt that Wordpress,
+while a very good platform for bloggers/writers, wasn’t for me anymore. I wanted
+to get back to my roots as a web developer and actually blog with code. I mean
+using command line, git, and the like to power my blog. Plus I like the security
+of not having to log into my site via a web based login. Now the only login I
+have is that of my server.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/back-to-jekyll-image-1.png&quot; alt=&quot;Image of Windows Powershell window with Jekyll running&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is just something serene of about running commands through a Powershell
+window and uploading everything to a repo. I can also choose how I want the site
+to look without any of the Wordpress code getting the way it just takes me back
+to a time of writing some code and uploading it to a server.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/back-to-jekyll</link>
+        <guid isPermaLink="true">http://bensanders.me/back-to-jekyll</guid>
+        
+        <category>blog,</category>
+        
+        <category>update</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on&amp;#58; Pokemon Sun &amp; Moon New Trailer</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/alolabig.jpg&quot; alt=&quot;Picture of Alola Region from Pokemon Sun and Pokemon Moon&quot; class=&quot;featured-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;thoughts-on58-pokemon-sun--moon-new-trailer&quot;&gt;Thoughts on: Pokemon Sun &amp;amp; Moon New Trailer&lt;/h1&gt;
+
+&lt;h3 id=&quot;a-brand-new-trailer-just-dropped-for-pokemon-sun--moon-and-here-are-my-thoughts&quot;&gt;A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts&lt;/h3&gt;
+
+&lt;h3 id=&quot;jun-2016&quot;&gt;02 Jun 2016&lt;/h3&gt;
+
+&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/XW14HO7C1Dg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!-- ad --&gt;
+
+&lt;p&gt;So another Pokemon Sun &amp;amp; Pokemon Moon trailer just dropped a load more information. We finally can see what appears to be the whole of the new region. We can see what the pokedex will look like as well as the new professor.&lt;/p&gt;
+
+&lt;p&gt;The new professor, Professor Kukui, has a mystery assistent Lillie. Which we’ll just have to wait until the game comes out or more information is leaked/released. As far as the legendary pokemon goes though we’ve got both Solgaleo and Lunala that we now know the names of as well as their typing and at least one move. Solgaleo has the type of Psychic/Steel which is a surprise seeing that everyone thought it would be at least part fire type being Sun related. Lunala though on the other hand is Psychic/Ghost which makes sense for him seeing as he’s Moon related.&lt;/p&gt;
+
+&lt;p&gt;Alola is the region and as pointed out by someone on skype if you were to go to the Sun dial in anistar city you can see 4 islands behind it.
+So does that mean Pokemon has been hinting towards these new games for a while now? Who knows other then Gamefreak and The Pokemon Company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/anistar.png&quot; alt=&quot;Anister City dial in Pokemon XY&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon</link>
+        <guid isPermaLink="true">http://bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon</guid>
+        
+        <category>pokemon,</category>
+        
+        <category>pokemon sun &amp; moon,</category>
+        
+        <category>sun,</category>
+        
+        <category>moon,</category>
+        
+        <category>update,</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thoughts On Dollar Photo Club Shutting Down</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/AdobeStock_89915506_smaller.jpg&quot; alt=&quot;Lady wearing dress coat with palm open and dollar sign hovering over.&quot; class=&quot;featured-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;thoughts-on-dollar-photo-club-shutting-down&quot;&gt;Thoughts On Dollar Photo Club Shutting Down&lt;/h1&gt;
+
+&lt;h3 id=&quot;just-my-thoughts-on-the-whole-thing&quot;&gt;Just my thoughts on the whole thing&lt;/h3&gt;
+
+&lt;h3 id=&quot;mar-2016&quot;&gt;15 Mar 2016&lt;/h3&gt;
+
+&lt;p&gt;I first joined Dollar Photo Club back in 2014 shortly before they were bought by Adobe. When I first heard about the parent company, Fotolia, being bought by Adobe I figured something would eventually happen that Adobe would close them down. I maybe didn’t think they would close them down but perhaps brand it to be more Adobe. I especially figured that once they announced Adobe Stock that maybe Dollar Photo Club’s days were numbered but I just kind of put that out of my mind. Until a couple of days ago when it was announced that Dollar Photo Club would be shutting down April 15th 2016.&lt;/p&gt;
+
+&lt;p&gt;So my thoughts on the whole service shutting down are that it’s a sad day to see any website or service shut down but I fully understand why Adobe made the move. Even though it may seem that Adobe is shutting down its competition and raising the price, and maybe they are. It did feel nice to have gotten into Dollar Photo Club before Adobe bought them because they had stopped sign ups. It felt kind of like I was part of, well, a club. I loved the fact that I could pay $10 a month and just let it accrue over years and be able to download images that I had full legal rights to use. With Adobe Stock I can do the same thing and love that it’s built into Adobe apps but now after the first year I will have to pay 3 times as much for the same service.&lt;/p&gt;
+
+&lt;p&gt;Now Adobe Stock does offer videos as well but I saw where it would cost me $80 to license a video which means that I can’t just go out and get stock video. I would need to spend extra money if I want test video. I mean I might as well go out and record my own videos if I need a stock video or something.&lt;/p&gt;
+
+&lt;p&gt;So my final thoughts on the service are that I’ll give it a year and if I don’t use it enough to justify the $30 a month for Adobe Stock then I’ll cancel. If I could ask something from Adobe I would ask that maybe figure out a way to include stock video at a lower price for video maybe. That would be nice. I don’t know though maybe another $1 stock image service will come up in the future and give Adobe Stock competition. We’ll just have to wait and see.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://bensanders.me/thoughts-on-dollar-photo-club-shutting</link>
+        <guid isPermaLink="true">http://bensanders.me/thoughts-on-dollar-photo-club-shutting</guid>
+        
+        <category>test,</category>
+        
+        <category>post</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
