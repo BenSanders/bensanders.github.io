@@ -101,6 +101,9 @@ ul.in-post-list li {
   display: block;
   text-transform: none; }
 
+header.entryTitle {
+  text-align: center; }
+
 header.entryTitle h2 {
   margin-bottom: 0; }
 
@@ -220,6 +223,13 @@ section.storyContent {
   float: left;
   margin: 0 .25rem !important;
   width: auto; }
+
+span.dropCap {
+  float: left;
+  font-weight: 700;
+  margin-right: .15em;
+  line-height: 1;
+  font-size: 3em; }
 
 .photoset figure, #postex .photoset figure {
   margin: 0;
