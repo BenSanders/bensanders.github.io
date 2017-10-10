@@ -19,7 +19,8 @@ html, body {
   width: 100%;
   background: #3bbd98 !important;
   color: white;
-  height: 105px; }
+  height: 105px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.28); }
 
 .topBar-inner {
   width: 100%;
@@ -70,7 +71,8 @@ nav.topBar-nav a:hover {
   line-height: 1.65;
   margin: 0 auto;
   background: white;
-  overflow: hidden; }
+  overflow: hidden;
+  margin-top: 1em; }
 
 div#postex {
   overflow: hidden;
@@ -141,9 +143,7 @@ img.customAd {
 
 .postMain-inner {
   width: 100%;
-  max-width: 870px;
-  padding-left: 1em;
-  padding-right: 1em; }
+  max-width: 870px; }
 
 .postSidebar {
   width: 100%;
