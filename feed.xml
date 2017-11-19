@@ -6,15 +6,15 @@
 </description>
     <link>http://bensanders.me/</link>
     <atom:link href="http://bensanders.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Nov 2017 09:15:08 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Nov 2017 09:15:08 -0500</lastBuildDate>
+    <pubDate>Sat, 18 Nov 2017 22:22:23 -0500</pubDate>
+    <lastBuildDate>Sat, 18 Nov 2017 22:22:23 -0500</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
         <title>National Novel Writing Month</title>
-        <description>&lt;section class=&quot;photoset&quot;&gt;
+        <description>&lt;!-- &lt;section class=&quot;photoset&quot;&gt;
   &lt;img src=&quot;/images/NaNoWriMo_small.jpg&quot; class=&quot;post-featured-image&quot; alt=&quot;Google Drive Logo&quot;&gt;
-&lt;/section&gt;
+&lt;/section&gt; --&gt;
 &lt;section class=&quot;storyContent&quot;&gt;
 &lt;p&gt;
   I was listening to Not Too Deep with Grace Helbig and it was mentioned that
@@ -413,11 +413,7 @@ to do a podcast for a while. So keep an eye on my twitter for more information o
     
       <item>
         <title>Who Am I Voting For?</title>
-        <description>&lt;section class=&quot;photoset&quot;&gt;
-  &lt;img src=&quot;/images/Gary-Johnson-800x430.jpg&quot; class=&quot;post-featured-image&quot; alt=&quot;Presidential Candidate Gary Johnson waves&quot; /&gt;
-&lt;/section&gt;
-
-&lt;p&gt;Every 4 years we here in America get to decide who we want to represent us as a nation and every 4 years there’s always a group of people who is disgusted and a group who is delighted. I will preface this by saying whoever is elected I will gladly call my president even if they are not the man or the woman I voted for because that is what America is all about. I will, however, say that this is the election that we as the American people have the greatest chance to change how our politics are played out. We for the first time in decades can actually work more towards a 3 or more party system and buck the establishment.&lt;/p&gt;
+        <description>&lt;p&gt;Every 4 years we here in America get to decide who we want to represent us as a nation and every 4 years there’s always a group of people who is disgusted and a group who is delighted. I will preface this by saying whoever is elected I will gladly call my president even if they are not the man or the woman I voted for because that is what America is all about. I will, however, say that this is the election that we as the American people have the greatest chance to change how our politics are played out. We for the first time in decades can actually work more towards a 3 or more party system and buck the establishment.&lt;/p&gt;
 
 &lt;p&gt;On the one hand, we have a guy like Donald J. Trump who is bent on showing that he is always right no matter what. He will flat out lie even when faced with the truth. On the other hand, we have Hillary Clinton who literally wants a war with Russia by controlling air space in Syria. There is another option in Gary Johnson who, while may not 100% perfect, but he at least understands that the country needs people to live with their own decisions. He has shown that he knows how to govern by leaving his state of New Mexico with a surplus and using his governor veto power to it’s fullest. Also since he’s not part of the two major parties and takes money from the people voting for him he’s actually beholden to the people.&lt;/p&gt;
 
@@ -444,15 +440,7 @@ to do a podcast for a while. So keep an eye on my twitter for more information o
     
       <item>
         <title>Going Live With Git</title>
-        <description>&lt;!-- ![Jekyll Logo](/images/logo-2x.png) --&gt;
-
-&lt;h1 id=&quot;going-live-with-git&quot;&gt;Going Live With Git&lt;/h1&gt;
-
-&lt;h3 id=&quot;git-is-an-awesome-tool&quot;&gt;Git is an awesome tool!&lt;/h3&gt;
-
-&lt;h3 id=&quot;jun-2016&quot;&gt;19 Jun 2016&lt;/h3&gt;
-
-&lt;p&gt;Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
+        <description>&lt;p&gt;Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
 you can go and find all the source code for this current site on my &lt;a href=&quot;https://github.com/bensanders/&quot;&gt;GitHub&lt;/a&gt;.
 Plugs aside I have installed git on my live server and just tried pushing some changes over to it vs my github. I can get used to going live with websites like that I think. haha&lt;/p&gt;
 
@@ -526,17 +514,7 @@ to a time of writing some code and uploading it to a server.&lt;/p&gt;
     
       <item>
         <title>Thoughts on&amp;#58; Pokemon Sun &amp; Moon New Trailer</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/alolabig.jpg&quot; alt=&quot;Picture of Alola Region from Pokemon Sun and Pokemon Moon&quot; class=&quot;featured-image&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;thoughts-on58-pokemon-sun--moon-new-trailer&quot;&gt;Thoughts on: Pokemon Sun &amp;amp; Moon New Trailer&lt;/h1&gt;
-
-&lt;h3 id=&quot;a-brand-new-trailer-just-dropped-for-pokemon-sun--moon-and-here-are-my-thoughts&quot;&gt;A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts&lt;/h3&gt;
-
-&lt;h3 id=&quot;jun-2016&quot;&gt;02 Jun 2016&lt;/h3&gt;
-
-&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/XW14HO7C1Dg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;!-- ad --&gt;
+        <description>&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/XW14HO7C1Dg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;So another Pokemon Sun &amp;amp; Pokemon Moon trailer just dropped a load more information. We finally can see what appears to be the whole of the new region. We can see what the pokedex will look like as well as the new professor.&lt;/p&gt;
 

@@ -139,17 +139,34 @@ img.customAd {
   width: 100%;
   max-width: 870px; }
 
+section.storyContent {
+  margin: 0 auto 28px; }
+
 .postSidebar {
   width: 100%;
   max-width: 300px;
   float: left; }
 
+.masthead {
+  height: 300px;
+  width: 100%;
+  float: left;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
 header.post-header {
   text-align: center;
-  border-bottom: 1px solid black; }
+  /* border-bottom: 1px solid black; */
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  /* height: 100%; */ }
 
 header.post-header h1 {
-  margin: 1em 0 0 0; }
+  margin: 0;
+  height: 100%;
+  padding-top: 3.5em; }
 
 header.post-header p.post-meta {
   margin: 0 0 1em 0; }
@@ -160,6 +177,12 @@ header.post-header p.post-meta {
   font-size: 12pt;
   color: #848484;
   margin-bottom: 0.5em; }
+
+span.postProfile {
+  background-image: url("/images/profile/post-profile.jpg"); }
+
+section.storyContent p {
+  line-height: 1.5; }
 
 .titleWrap {
   clear: both;
@@ -303,7 +326,7 @@ ul#left-about {
 
 ul#right-about {
   float: right;
-  width: 67%;
+  width: 65%;
   overflow: hidden;
   margin: 0; }
 
