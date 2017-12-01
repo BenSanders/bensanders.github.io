@@ -12,6 +12,9 @@ html, body {
   font-family: helvetica, arial, sans-serif;
   background: #fff; }
 
+video {
+  width: 100%; }
+
 #site {
   width: 100%; }
 
