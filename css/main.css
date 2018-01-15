@@ -129,6 +129,7 @@ header.entryTitle .oneLiner {
 
 div#headerAd {
   margin-top: 2em;
+  margin-bottom: 2em;
   /* background: #eee; */
   text-align: center;
   width: 100%;
