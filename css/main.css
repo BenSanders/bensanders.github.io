@@ -390,7 +390,7 @@ ul#right-about li {
     margin: 0 1em 0 1em; }
 
   /* Share Bar */ }
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 1280px) {
   div#leftrail-social {
     display: none; } }
 
