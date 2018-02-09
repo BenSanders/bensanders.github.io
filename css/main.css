@@ -145,6 +145,22 @@ img.customAd {
 .photoContent {
   position: relative; }
 
+/* Share Bar */
+div#leftrail-social {
+  /* float: left; */
+  /* width: 50px; */
+  position: absolute;
+  height: auto;
+  width: 42px;
+  left: 16em;
+  font-size: 20px; }
+
+div#leftrail-social ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+
 .postMain {
   width: 100%;
   max-width: 900px;
@@ -371,6 +387,11 @@ ul#right-about li {
     width: 100%; }
 
   section.storyContent {
-    margin: 0 1em 0 1em; } }
+    margin: 0 1em 0 1em; }
+
+  /* Share Bar */ }
+@media screen and (max-width: 414px) {
+  div#leftrail-social {
+    display: none; } }
 
 /*# sourceMappingURL=main.css.map */
