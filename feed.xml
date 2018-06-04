@@ -4,55 +4,27 @@
     <title>Ben Sanders</title>
     <description>Ben Sanders is an all-around Geek and loves to write about the latest technology/gaming news. If you want a personal take on technology and gaming news come have a read. 
 </description>
-    <link>https://bensanders.me/</link>
-    <atom:link href="https://bensanders.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Mar 2018 10:53:58 -0400</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 10:53:58 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jun 2018 12:55:16 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 12:55:16 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Share Only What You Want Out There</title>
+        <title>Apple WWDC 2018</title>
         <description>&lt;section class=&quot;storyContent&quot;&gt;
   &lt;!-- &lt;img class=&quot;post-featured-image&quot; src=&quot;/images/AdobeStock_Privacy_Small.jpg&quot;&gt; --&gt;
-  &lt;p&gt;
-    Since I graduated back in 2011 I suppose I was one of the last group of high-schoolers
-    to know what life was like before the proliferation of social media. One thing you
-    have to keep in mind when sharing on the internet, let alone social media, is that
-    once you put it out there. You have to assume it will always be there even if you &#39;delete&#39; it.
+  &lt;p class=&quot;introduction&quot;&gt;
+    It's that time again for another Apple WWDC and I'm going to attempt to live blog the event here.
+    You will need to refresh the page though since I'm using Jekyll but hey it's something to try. Please
+    bear with me here.
   &lt;/p&gt;
-  &lt;p&gt;
-    For example, at one point when I was going to school for web design and development,
-    I was looking into building a social network. Granted it was mostly to practice coding
-    but I was still interested in building one. I did some research on how other social
-    media websites handled things like &#39;deleting&#39; images and posts. One thing I found out
-    was that it doesn&#39;t actually &#39;delete&#39; it just sort of hides it.
-  &lt;/p&gt;
-  &lt;p&gt;
-    I&#39;m sure that it eventually does get deleted and is gone but by the time you
-    hit the delete button. You never know who has downloaded it and possibly shared
-    it somewhere else. Which is the point of this article is to say that if you want to
-    share something think it through first.
-  &lt;/p&gt;
-  &lt;p&gt;
-    To tie up this article with a nice bow, I will say that the whole Facebook/Cambridge
-    Analytica thing made me want to write this article. From a programmer/web developer
-    perspective, I see the issue being caused both by Facebook and the users being careless.
-    The users that got their information leaked because they used Facebook to login to random
-    apps for quizzes. Facebook for not doing more to protect that data.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Moral of the story is just be more careful what you share online. If you do
-    share more personal information online don&#39;t use Facebook to login to those
-    personality quizzes.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Thanks for reading and stay safe out there. :)
-  &lt;/p&gt;
+
 &lt;/section&gt;
 </description>
-        <pubDate>Thu, 22 Mar 2018 00:00:00 -0400</pubDate>
-        <link>https://bensanders.me/share-only-what-you-want-out-there/</link>
-        <guid isPermaLink="true">https://bensanders.me/share-only-what-you-want-out-there/</guid>
+        <pubDate>Mon, 04 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/share-only-what-you-want-out-there/</link>
+        <guid isPermaLink="true">http://localhost:4000/share-only-what-you-want-out-there/</guid>
         
         <category>thebensanders,</category>
         
@@ -70,39 +42,98 @@
       </item>
     
       <item>
-        <title>Let&#39;s Talk About Sub4Sub</title>
+        <title>Share Only What You Want Out There</title>
+        <description>&lt;section class=&quot;storyContent&quot;&gt;
+  &lt;!-- &lt;img class=&quot;post-featured-image&quot; src=&quot;/images/AdobeStock_Privacy_Small.jpg&quot;&gt; --&gt;
+  &lt;p&gt;
+    Since I graduated back in 2011 I suppose I was one of the last group of high-schoolers
+    to know what life was like before the proliferation of social media. One thing you
+    have to keep in mind when sharing on the internet, let alone social media, is that
+    once you put it out there. You have to assume it will always be there even if you 'delete' it.
+  &lt;/p&gt;
+  &lt;p&gt;
+    For example, at one point when I was going to school for web design and development,
+    I was looking into building a social network. Granted it was mostly to practice coding
+    but I was still interested in building one. I did some research on how other social
+    media websites handled things like 'deleting' images and posts. One thing I found out
+    was that it doesn't actually 'delete' it just sort of hides it.
+  &lt;/p&gt;
+  &lt;p&gt;
+    I'm sure that it eventually does get deleted and is gone but by the time you
+    hit the delete button. You never know who has downloaded it and possibly shared
+    it somewhere else. Which is the point of this article is to say that if you want to
+    share something think it through first.
+  &lt;/p&gt;
+  &lt;p&gt;
+    To tie up this article with a nice bow, I will say that the whole Facebook/Cambridge
+    Analytica thing made me want to write this article. From a programmer/web developer
+    perspective, I see the issue being caused both by Facebook and the users being careless.
+    The users that got their information leaked because they used Facebook to login to random
+    apps for quizzes. Facebook for not doing more to protect that data.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Moral of the story is just be more careful what you share online. If you do
+    share more personal information online don't use Facebook to login to those
+    personality quizzes.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Thanks for reading and stay safe out there. :)
+  &lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Thu, 22 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/share-only-what-you-want-out-there/</link>
+        <guid isPermaLink="true">http://localhost:4000/share-only-what-you-want-out-there/</guid>
+        
+        <category>thebensanders,</category>
+        
+        <category>Ben Sanders,</category>
+        
+        <category>facebook,</category>
+        
+        <category>Cambridge Analytica,</category>
+        
+        <category>twitter,</category>
+        
+        <category>privacy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Talk About Sub4Sub</title>
         <description>&lt;section class=&quot;storyContent&quot;&gt;
   &lt;img class=&quot;post-featured-image&quot; src=&quot;/images/sub4sub.jpg&quot;&gt;
   &lt;p class=&quot;introduction&quot;&gt;
     Since I started uploading more frequently to YouTube I have come across more
     people asking for sub4sub. The main problem with sub4sub is that, yes it gets
-    you tons of subs, but you don&#39;t get actual views and watch time. You also end
+    you tons of subs, but you don't get actual views and watch time. You also end
     up with a bunch of subscriptions that you will probably never watch yourself.
   &lt;/p&gt;
   &lt;p&gt;
     When it comes to getting people to subscribe to your channel you should want
     them to subscribe because you offer some kind of value to them. That value can
     come in the form of entertainment, education, or whatever else you might offer.
-    That&#39;s why you should be doing a call-to-action at the end of your videos inviting
+    That's why you should be doing a call-to-action at the end of your videos inviting
     viewers to subscribe, like, and/or comment. Doing that kind of reminds people that
     they can do all those things on YouTube.
   &lt;/p&gt;
   &lt;p&gt;
     It may seem to take a lot longer to grow a channel without sub4sub but if you
-    don&#39;t take part in that sub4sub culture. You will be able to find your niche on
-    YouTube that will allow you to grow your channel. That just simply doesn&#39;t happen
+    don't take part in that sub4sub culture. You will be able to find your niche on
+    YouTube that will allow you to grow your channel. That just simply doesn't happen
     with sub4sub because it just gets a bunch of people subscribed that will probably
     only last at most a month.
   &lt;/p&gt;
   &lt;p&gt;
     More recently I posted a link to my channel in a blogs comment section which
     got about 8 subs from. The problem was people commented saying &quot;subbed, now sub back&quot;.
-    Well as you can imagine once I didn&#39;t sub back all 8 unsubbed. That shows that they
-    weren&#39;t actually interested in my content they just wanted to inflate their own sub count.
+    Well as you can imagine once I didn't sub back all 8 unsubbed. That shows that they
+    weren't actually interested in my content they just wanted to inflate their own sub count.
   &lt;/p&gt;
   &lt;img class=&quot;post-featured-image&quot; src=&quot;/images/sub4sub-graph.png&quot;&gt;
   &lt;p&gt;
-    All-in-all sub4sub is a pretty terrible way to grow a channel and I&#39;ll leave
+    All-in-all sub4sub is a pretty terrible way to grow a channel and I'll leave
     you with a video on the topic. That being said if you want to watch my content
     and subscribe to me because of that you can find my channel here. &lt;a target=&quot;_blank&quot; href=&quot;https://youtube.com/thebensanders/&quot;&gt;https://youtube.com/thebensanders/&lt;/a&gt;.
   &lt;/p&gt;
@@ -115,8 +146,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Wed, 14 Feb 2018 00:00:00 -0500</pubDate>
-        <link>https://bensanders.me/about-sub-4-sub/</link>
-        <guid isPermaLink="true">https://bensanders.me/about-sub-4-sub/</guid>
+        <link>http://localhost:4000/about-sub-4-sub/</link>
+        <guid isPermaLink="true">http://localhost:4000/about-sub-4-sub/</guid>
         
         <category>thebensanders,</category>
         
@@ -140,18 +171,18 @@
 &lt;/section&gt;
 &lt;section class=&quot;storyContent&quot;&gt;
   &lt;p class=&quot;introduction&quot;&gt;
-    So, it&#39;s finally here or at least tomorrow it will finally be here. The Sims
+    So, it's finally here or at least tomorrow it will finally be here. The Sims
     4 Laundry Day stuff pack. Perhaps the first stuff pack I can remember I have
-    been excited about. I think the main reason I&#39;m excited about this stuff pack
+    been excited about. I think the main reason I'm excited about this stuff pack
     is that it is the first time the community has voted on what the next stuff
     pack will be. Maybe if this pack ends up being a success it will lead them to
     work with the community in future TS4 content.
   &lt;/p&gt;
   &lt;p&gt;
-    I&#39;m a simmer, that&#39;s one thing that is for sure. I&#39;ve been playing The Sims
+    I'm a simmer, that's one thing that is for sure. I've been playing The Sims
     franchise since my dad bought the first game for my mom. I can remember
-    spending hours as a kid playing the game. It&#39;s one of the main game franchises
-    that shaped my childhood. Perhaps I&#39;ll do a video or a blog post on games I
+    spending hours as a kid playing the game. It's one of the main game franchises
+    that shaped my childhood. Perhaps I'll do a video or a blog post on games I
     played as a child in the future.
   &lt;/p&gt;
   &lt;p&gt;
@@ -159,18 +190,18 @@
   &lt;/p&gt;
   &lt;p&gt;
     I love it! The reason being that back when laundry was first introduced back
-    in The Sims 3: Ambitions I loved watching my Sims do laundry. There&#39;s just
+    in The Sims 3: Ambitions I loved watching my Sims do laundry. There's just
     something about laundry, and seasons, that adds more realism to the game.
     It makes it easier for me to put myself in that world.
   &lt;/p&gt;
   &lt;p&gt;
-    There&#39;s also the trailer they made for the stuff pack which I can tell The
+    There's also the trailer they made for the stuff pack which I can tell The
     Sims team was having fun. Although considering the topic of the stuff pack.
-    I&#39;m surprised they were able to make the trailer as exciting as it is.
+    I'm surprised they were able to make the trailer as exciting as it is.
   &lt;/p&gt;
   &lt;p&gt;
-    I&#39;m looking forward to putting another 300 hours into the game or, you know,
-    something like that. I&#39;ll emerge on the other side not knowing what&#39;s going
+    I'm looking forward to putting another 300 hours into the game or, you know,
+    something like that. I'll emerge on the other side not knowing what's going
     on in the real world. Perhaps even mainly speaking in Similish.
   &lt;/p&gt;
   &lt;p&gt;
@@ -182,8 +213,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 15 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://bensanders.me/the-sims-4-laundry-day/</link>
-        <guid isPermaLink="true">https://bensanders.me/the-sims-4-laundry-day/</guid>
+        <link>http://localhost:4000/the-sims-4-laundry-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-sims-4-laundry-day/</guid>
         
         <category>thebensanders,</category>
         
@@ -214,14 +245,14 @@
 &lt;section class=&quot;storyContent&quot;&gt;
   &lt;p class=&quot;introduction&quot;&gt;
     I can remember the very first book I read all the way through. It was &quot;Harry
-    Potter and the Sorcerer&#39;s Stone&quot;.  I remember the day I decided to start
+    Potter and the Sorcerer's Stone&quot;.  I remember the day I decided to start
     reading the Harry Potter Series. It was right after I had seen the first film.
     I guess I wanted to be immersed in the Harry Potter universe even more.
   &lt;/p&gt;
   &lt;p&gt;
-    Ever since those days though I haven&#39;t really read a whole lot other than
+    Ever since those days though I haven't really read a whole lot other than
     the occasional blog posts. Which, I suppose, is still reading and you can
-    still get the same benefits as reading a book. I just haven&#39;t taken the time
+    still get the same benefits as reading a book. I just haven't taken the time
     to just sit back, relax, and take a journey with a nice book in a while.
   &lt;/p&gt;
   &lt;p&gt;
@@ -238,18 +269,18 @@
     live in.
   &lt;/p&gt;
   &lt;p&gt;
-    I&#39;m going to stray a little here to say that I have been trying to find my
+    I'm going to stray a little here to say that I have been trying to find my
     niche on YouTube. I had recently found the BookTube community which seems to
     go with what I want to do in terms of reading and writing more. Hell, I might
-    even actually write a novel one day. Wouldn&#39;t that be great?
+    even actually write a novel one day. Wouldn't that be great?
   &lt;/p&gt;
   &lt;p&gt;
     So, where is this all going, I hear you ask yourself.
   &lt;/p&gt;
   &lt;p&gt;
     Well, here in 2018 I would honestly like to read more. Starting with Emma
-    Blackery&#39;s &quot;Feel Good 101&quot;. I don&#39;t like setting a certain number but I&#39;m
-    going to say I&#39;d like to read 20 books in 2018. Mostly books I already own
+    Blackery's &quot;Feel Good 101&quot;. I don't like setting a certain number but I'm
+    going to say I'd like to read 20 books in 2018. Mostly books I already own
     which include: Egghead and The Fault in Our Stars.
   &lt;/p&gt;
   &lt;h2&gt;Why Read Though?&lt;/h2&gt;
@@ -261,8 +292,8 @@
     amount of time.
   &lt;/p&gt;
   &lt;p&gt;
-    While you can read on, say an iPad, you&#39;ve still got the notifications
-    coming through interrupting your reading. I want to read because it&#39;s a way
+    While you can read on, say an iPad, you've still got the notifications
+    coming through interrupting your reading. I want to read because it's a way
     to fully escape the world into a whole different one. Even reading non-fiction
     books can help you escape. It can conjure up what it must have been like to live
     in the times that book is talking about.
@@ -273,27 +304,27 @@
   &lt;/p&gt;
   &lt;p&gt;
     &quot;Reading forces you to go one step further and not even let your mind wander
-    a bit. If it does, you&#39;re punished by having to read the paragraph or page
+    a bit. If it does, you're punished by having to read the paragraph or page
     over again to understand what’s happening&quot;
   &lt;/p&gt;
   &lt;p&gt;
-    That&#39;s very true I can attest to have been reading a book and my mind started
-    wondering about something else. Then next thing I knew I was lost and didn&#39;t
+    That's very true I can attest to have been reading a book and my mind started
+    wondering about something else. Then next thing I knew I was lost and didn't
     know where I had left off.
   &lt;/p&gt;
   &lt;p&gt;
-    Reading isn&#39;t just about relaxing though it also allows you to see things
+    Reading isn't just about relaxing though it also allows you to see things
     from a different perspective. If you are set in your beliefs on one thing
     reading can give you a new perspective on those beliefs. You may or may not
     change what you personally believe but at least you have a better understanding
-    of someone else&#39;s point-of-view.
+    of someone else's point-of-view.
   &lt;/p&gt;
   &lt;h2&gt;What to read?&lt;/h2&gt;
   &lt;p&gt;
-    As I&#39;ve mentioned above I&#39;m starting out with Emma Blackery&#39;s book since
+    As I've mentioned above I'm starting out with Emma Blackery's book since
     that is the most recent book I bought. I do have several books in mind that
     I have been meaning to read myself. One book is &quot;Steve Jobs&quot; by Walter Isaacson.
-    I will also be keeping an eye on Bill Gate&#39;s, &lt;a href=&quot;https://www.gatesnotes.com/&quot;
+    I will also be keeping an eye on Bill Gate's, &lt;a href=&quot;https://www.gatesnotes.com/&quot;
     target=&quot;_blank&quot;&gt;Gatesnotes&lt;/a&gt;, blog for ideas on
     books to read.
   &lt;/p&gt;
@@ -301,21 +332,21 @@
     Thankfully, as mentioned previously, I found the
     &lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/results?search_query=booktube&quot;&gt;BookTube community&lt;/a&gt; which
     led me to make a &lt;a target=&quot;_blank&quot; href=&quot;https://www.goodreads.com/user/show/76373017-ben-sanders&quot;&gt;Goodreads account&lt;/a&gt;.
-    So, that&#39;s another place I&#39;m sure I&#39;ll find great books to read. Really,
+    So, that's another place I'm sure I'll find great books to read. Really,
     there should be no excuse for me not to read 20 books in 2018.
   &lt;/p&gt;
   &lt;h2&gt;Conclusion&lt;/h2&gt;
   &lt;p&gt;
-    My final thoughts are that I&#39;m hoping I can actually read 20, or more, books
-    in 2018. I&#39;m sure it will lead to me having a greater knowledge of the world
+    My final thoughts are that I'm hoping I can actually read 20, or more, books
+    in 2018. I'm sure it will lead to me having a greater knowledge of the world
     and ultimately help improve my writing. Who knows? Perhaps by November of this
     year, I will actually participate in NaNoWriMo and have a published novel. :)
   &lt;/p&gt;
 &lt;/section&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
-        <link>https://bensanders.me/read-more/</link>
-        <guid isPermaLink="true">https://bensanders.me/read-more/</guid>
+        <link>http://localhost:4000/read-more/</link>
+        <guid isPermaLink="true">http://localhost:4000/read-more/</guid>
         
         <category>read more,</category>
         
@@ -364,8 +395,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
-        <link>https://bensanders.me/webms-are-cool/</link>
-        <guid isPermaLink="true">https://bensanders.me/webms-are-cool/</guid>
+        <link>http://localhost:4000/webms-are-cool/</link>
+        <guid isPermaLink="true">http://localhost:4000/webms-are-cool/</guid>
         
         <category>webm,</category>
         
@@ -398,12 +429,12 @@
 &lt;/p&gt;
 &lt;p&gt;
   Seriously though I have thought about writing a novel in the past.
-  As I&#39;m sure almost every single person in the world has thought about doing.
-  I think I&#39;ll stick to writing more on my blog to help work on my writing and storytelling skills.
+  As I'm sure almost every single person in the world has thought about doing.
+  I think I'll stick to writing more on my blog to help work on my writing and storytelling skills.
 &lt;/p&gt;
 &lt;p&gt;
   I would imagine that difference between writing a novel and a blog post would
-  be that you can&#39;t just have short paragraphs. I don&#39;t know, maybe you can.
+  be that you can't just have short paragraphs. I don't know, maybe you can.
   In writing, there are certain rules you should follow but I imagine if you can
   tell a compelling story. You can write however you want.
 &lt;/p&gt;
@@ -415,11 +446,11 @@
 &lt;p&gt;
 The worst thing for any writer is a blank page and there are plenty of remedies
 to cure that problem. One of the main ones that many English college professors
-will have you do is just write. Write about things and don&#39;t worry about grammar
+will have you do is just write. Write about things and don't worry about grammar
 or spelling. You can always edit it for grammar letter.
 &lt;/p&gt;
 &lt;p&gt;
-Thanks as always for taking the time to read my blog posts. I&#39;m going to try to
+Thanks as always for taking the time to read my blog posts. I'm going to try to
 post more during November and onwards. I just never really had much that I felt
 I could add to the blogosphere. Hopefully, this post does add something and I
 would love to hear from you, dear reader, in the comments below. :)
@@ -430,8 +461,8 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;/section&gt;
 </description>
         <pubDate>Thu, 09 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https://bensanders.me/national-novel-writing-month/</link>
-        <guid isPermaLink="true">https://bensanders.me/national-novel-writing-month/</guid>
+        <link>http://localhost:4000/national-novel-writing-month/</link>
+        <guid isPermaLink="true">http://localhost:4000/national-novel-writing-month/</guid>
         
         <category>national novel writing month,</category>
         
@@ -454,8 +485,8 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
         <title>5 Reasons To Upload Your Resume To Google Drive</title>
         <description>&lt;section class=&quot;storyContent&quot;&gt;
 &lt;p&gt;
-  So, you&#39;re out of school or are almost out and you are looking for a job?
-  You&#39;ve got your resume in hand or I should say in PDF form on your computer.
+  So, you're out of school or are almost out and you are looking for a job?
+  You've got your resume in hand or I should say in PDF form on your computer.
   You could upload it every time you send an email to a potential job or, and I
   suppose this only works if you use Gmail, you could upload it to Google Drive.
 
@@ -463,8 +494,8 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;p&gt;
   Recently I had applied for a job and I went to upload my resume to send to
   them and I had this thought about importing it from Google Drive. For some
-  reason, all the times I had sent applications in I hadn&#39;t thought about doing
-  this. I guess it&#39;s just me being stuck in the past so to speak. After I had
+  reason, all the times I had sent applications in I hadn't thought about doing
+  this. I guess it's just me being stuck in the past so to speak. After I had
   sent the email I did think about the ease of which it would be to update my
   resume that company has now. If I update that one then it would just update
   for them since I basically sent them a link and allowed them to view it.
@@ -491,14 +522,14 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;/p&gt;
 &lt;p&gt;
   What I mean by &quot;literally, only one copy is needed&quot; is just as it sounds.
-  You only need one copy since it&#39;s online in Google Drive you don&#39;t have to
+  You only need one copy since it's online in Google Drive you don't have to
   worry about resaving a Word Document as a PDF anymore. Just send the Google
   Drive Document, or whatever they call it.
 
 &lt;/p&gt;
 &lt;p&gt;
   &quot;The Cloud&quot;, which is a word I sort of hate since it simplifies the web a
-  little too much but that&#39;s the buzz word that&#39;s been chosen. Either way
+  little too much but that's the buzz word that's been chosen. Either way
   &quot;The Cloud&quot; allows for you to view your resume, or any other document, on any
   device that has the app. So, if you need to show your resume to someone in a
   pinch just get your phone out and show them. You can even edit it from your
@@ -507,9 +538,9 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;/p&gt;
 &lt;p&gt;
   Importing it from inside of Gmail is easy by just hitting the Drive icon and
-  selecting your file. I would say it couldn&#39;t be any easier.
-  I&#39;ll just include this last one in this paragraph. The last one being that
-  it&#39;s just super convenient. Super convenient for really all the above points
+  selecting your file. I would say it couldn't be any easier.
+  I'll just include this last one in this paragraph. The last one being that
+  it's just super convenient. Super convenient for really all the above points
   I mentioned.
 
 &lt;/p&gt;
@@ -525,8 +556,8 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 17 Jul 2017 00:00:00 -0400</pubDate>
-        <link>https://bensanders.me/5-reasons-to-upload-your-resume-to-google-drive/</link>
-        <guid isPermaLink="true">https://bensanders.me/5-reasons-to-upload-your-resume-to-google-drive/</guid>
+        <link>http://localhost:4000/5-reasons-to-upload-your-resume-to-google-drive/</link>
+        <guid isPermaLink="true">http://localhost:4000/5-reasons-to-upload-your-resume-to-google-drive/</guid>
         
         <category>5 reasons to upload your resume to google drive,</category>
         
@@ -552,20 +583,20 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
   It has come to my attention that I should move into the new age so to speak of
   web development. I managed to teach myself SASS and get better with GIT, ha get,
   all jokes aside I need to keep my skills up. So, over the next few days, weeks
-  and even months I&#39;ll be implementing &lt;a target=&quot;_blank&quot; href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt; into my site.
+  and even months I'll be implementing &lt;a target=&quot;_blank&quot; href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt; into my site.
 &lt;/p&gt;
 &lt;p&gt;
-  I&#39;ve always had trouble with things like the Hamburger menu, I guess because I
+  I've always had trouble with things like the Hamburger menu, I guess because I
   always tried using an image for it. You know instead of using a CSS Icon Set.
-  I&#39;ll also be trying to blog the experience more so I can get some actual
+  I'll also be trying to blog the experience more so I can get some actual
   content on this site.
 
 &lt;/p&gt;
 &lt;p&gt;
-  I&#39;ve already started filling out my &lt;a target=&quot;_blank&quot; href=&quot;https://bensanders.me/portfolio&quot;&gt;portfolio&lt;/a&gt;.
-  Although it&#39;s mostly just
-  designs that I made up in Photoshop. I&#39;ve also popped open Illustrator to make
-  some logos but I don&#39;t feel they are that great to share yet. I mostly just
+  I've already started filling out my &lt;a target=&quot;_blank&quot; href=&quot;https://bensanders.me/portfolio&quot;&gt;portfolio&lt;/a&gt;.
+  Although it's mostly just
+  designs that I made up in Photoshop. I've also popped open Illustrator to make
+  some logos but I don't feel they are that great to share yet. I mostly just
   keep trying to slog away to keep busy on something creative.
 
 &lt;/p&gt;
@@ -573,7 +604,7 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
   I do still run my &lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://youtube.com/thebensanders&quot;&gt;YouTube&lt;/a&gt;
   channel as well where I upload vlogs and short
   Overwatch clips. I have already uploaded more videos this year than all of
-  last year put together and depending on if the Dragon Con trip works out I&#39;ll
+  last year put together and depending on if the Dragon Con trip works out I'll
   have that on my channel. Along with plenty of photos from the Con on this site.
 
 &lt;/p&gt;
@@ -588,14 +619,14 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
   - Ben Sanders &lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;
-  P.S. If you enjoyed this post don&#39;t forget to share it on all the socials
+  P.S. If you enjoyed this post don't forget to share it on all the socials
   and comment below! I looke forward to conversing with you all in the comments.
 &lt;/p&gt;
 &lt;/section&gt;
 </description>
         <pubDate>Fri, 14 Jul 2017 00:00:00 -0400</pubDate>
-        <link>https://bensanders.me/using-font-awesome-in-2017/</link>
-        <guid isPermaLink="true">https://bensanders.me/using-font-awesome-in-2017/</guid>
+        <link>http://localhost:4000/using-font-awesome-in-2017/</link>
+        <guid isPermaLink="true">http://localhost:4000/using-font-awesome-in-2017/</guid>
         
         <category>font awesome,</category>
         
@@ -615,9 +646,9 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
   know what could happen tomorrow but either way, I am loving the freedom the job provides.
 &lt;/p&gt;
 &lt;p&gt;
-  It&#39;s not easy money either, you still have to work for it. How it works is you
+  It's not easy money either, you still have to work for it. How it works is you
   claim projects, type out exactly what you hear the best you can and submit them.
-  Most of the time the audio can be a bit tricky to hear but I think that&#39;s the most
+  Most of the time the audio can be a bit tricky to hear but I think that's the most
   rewarding part of it. I mean, imagine this, you are working on some audio and
   you finally are able to make out something. Would you feel a sense of satisfaction from that?
 &lt;/p&gt;
@@ -635,11 +666,11 @@ PS: After I copy and pasted these &quot;paragraphs&quot; into Atom the article s
 &lt;/p&gt;
 &lt;p&gt;
   Working from home is essentially you running your own business. So, if you treat
-  it like you&#39;re a business owner that you are then find something that you love doing.
+  it like you're a business owner that you are then find something that you love doing.
 &lt;/p&gt;
 &lt;p&gt;
   I would say the best way to make money online is to find something you would do
-  for free and charge for it. The idea being that if it&#39;s something you&#39;d be doing
+  for free and charge for it. The idea being that if it's something you'd be doing
   for free you are probably good at it. At least good enough to garner some sort
   of eyeballs on it.
 &lt;/p&gt;
@@ -651,8 +682,8 @@ to do a podcast for a while. So keep an eye on my twitter for more information o
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 24 Apr 2017 00:00:00 -0400</pubDate>
-        <link>https://bensanders.me/working-online-and-where-to-start/</link>
-        <guid isPermaLink="true">https://bensanders.me/working-online-and-where-to-start/</guid>
+        <link>http://localhost:4000/working-online-and-where-to-start/</link>
+        <guid isPermaLink="true">http://localhost:4000/working-online-and-where-to-start/</guid>
         
         <category>work from home,</category>
         
@@ -661,80 +692,6 @@ to do a podcast for a while. So keep an eye on my twitter for more information o
         <category>thebensanders,</category>
         
         <category>transcription jobs,</category>
-        
-        <category>2017</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>My Thoughts on The Red Pill Documentary</title>
-        <description>&lt;section class=&quot;storyContent&quot;&gt;
-&lt;p&gt;
-  I recently watched a video from Armoured Skeptic about a documentary called
-  The Red Pill. Which then prompted me to go and actually watch the film.
-  I have not really been a fan of the men&#39;s rights movement or the feminist
-  movement for that matter.  I sure as hell don&#39;t like the movement called MGTOW.
-  However, the film did give me a nice, fresh, view on the situation.
-&lt;/p&gt;
-&lt;p&gt;
-  You see both sides do make valid points. I understand that with anything there
-  is always going to be a radical sub-group. For example, the MGTOW which stands
-  for Men Going Their Own Way. Which to me sounds like men who don&#39;t even want to
-  try and solve the problems between the genders. Like they are too scared to solve
-  the problems and instead hang a &quot;No Girls Allowed&quot; sign up in protest.
-&lt;/p&gt;
-&lt;p&gt;
-  The film does show off both the best and the worst of each movement. The film
-  touched on the fact that men do get the worst end of the stick in family court.
-  While at the same time also stating, from someone from the feminist camp, that
-  you should talk to the other person before engaging in sex.
-&lt;/p&gt;
-&lt;p&gt;
-  Which you should fully discuss with the person, that you are about to have intimate
-  time with, what might happen if a pregnancy occurs. If two people of the opposite
-  gender have sex they should honestly have discussed that fact. Since having sex,
-  even when using protection, has a very real possibly of producing offspring.
-&lt;/p&gt;
-&lt;p&gt;
-  The Red Pill highlights the fact that both genders do have problems with abuse
-  towards them. That sexual or verbal abuse can happen to someone regardless of gender.
-  Each time it showed stats though it showed it affects more women.
-&lt;/p&gt;
-&lt;p&gt;
-  The thing is though that doesn&#39;t make Men any less valuable or needing help.
-  It also doesn&#39;t mean women are any less the victims of these tragic abuse stories.
-  All it means is that we should keep all this in mind when we hear about abuse
-  stories regardless of gender. If a guy comes forward and says he&#39;s been abused
-  by a female then he should have his voice heard. Just like we should listen to
-  women if the same thing happens to them.
-&lt;/p&gt;
-&lt;p&gt;
-  I think that to solve some of these issues and get rid of some of the tensions
-  between the genders we just need to communicate more. Maybe make a woman prove
-  the person she claims is the father is the father before applying for welfare.
-&lt;/p&gt;
-&lt;p&gt;
-  It&#39;s difficult to discuss these sorts of issues because both sides make good,
-  or least half decent, arguments. As both genders can&#39;t possibly imagine what
-  life is like in the other&#39;s shoes, so to speak. We can&#39;t possibly fully understand
-  how to actually solve these problems.
-&lt;/p&gt;
-&lt;p&gt;
-  Anyway, those are some of my thoughts, I hope I brought something new to the table.
-  Let me know what you think there in the comments below. I look forward to hearing
-  from everyone. I tend to try to stay as centrist as I can on most issues.
-  So until the next one have a great day! :)
-&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Sat, 18 Mar 2017 00:00:00 -0400</pubDate>
-        <link>https://bensanders.me/the-red-pill/</link>
-        <guid isPermaLink="true">https://bensanders.me/the-red-pill/</guid>
-        
-        <category>the red pill,</category>
-        
-        <category>documentary,</category>
         
         <category>2017</category>
         
