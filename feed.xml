@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jun 2018 13:49:54 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 13:49:54 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 13:52:03 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 13:52:03 -0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -46,11 +46,11 @@
         
         <category>Ben Sanders,</category>
         
-        <category>facebook,</category>
+        <category>apple,</category>
         
-        <category>Cambridge Analytica,</category>
+        <category>wwdc,</category>
         
-        <category>twitter,</category>
+        <category>june,</category>
         
         <category>privacy</category>
         
